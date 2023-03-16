@@ -1,6 +1,9 @@
 import logo from './logo.svg';
 import './App.css';
+<<<<<<< HEAD
 import * as React from 'react';
+=======
+>>>>>>> 00a9b98 (Initial commit)
 
 function App() {
   return (

@@ -1,16 +1,8 @@
-<<<<<<< HEAD
-import * as React from 'react';
-=======
 import React from 'react';
->>>>>>> 00a9b98 (Initial commit)
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-<<<<<<< HEAD
-import './params';
-=======
->>>>>>> 00a9b98 (Initial commit)
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(

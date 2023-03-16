@@ -1,1 +1,0 @@
-const basurl ='https://jsonplaceholder.typicode.com'
